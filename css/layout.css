@@ -1,0 +1,29 @@
+/*.container {
+	width: 840px;
+	margin: 0 auto;
+}
+
+.row {
+	clear: both;
+	overflow: hidden;
+	//background: red;
+}
+
+.col {
+	float: left;
+	margin: 0 5px;
+}
+
+.col--main {
+	width: 580px;
+}
+
+.col--sidebar {
+	width: 220px;
+}
+
+.col--sidebar-footer {
+	float: left;
+	width: 173.3333333px;
+	margin: 0 10px;
+}*/
